@@ -101,3 +101,30 @@ p {
 
     color: rgb(34, 118, 6);
 }
+
+
+@media screen and (max-width: 768px) {
+
+    
+    h1{
+        font-size: 60px;
+    }
+    
+    .title-p{
+
+        font-size: 18px;
+    }
+    .quote-text{
+
+        font-size: 20px;
+
+    }
+
+    .btu {
+
+        width: 200px;
+        height: 80px;
+    }
+
+
+}
